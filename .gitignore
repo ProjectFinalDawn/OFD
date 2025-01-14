@@ -1,0 +1,10 @@
+.vscode/
+Assembly-CSharp.csproj
+Library/
+Logs/
+Operational Final Dawn Frontend.sln
+Packages/
+ProjectSettings/
+Temp/
+UserSettings/
+.vs/
